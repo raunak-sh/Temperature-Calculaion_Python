@@ -5,7 +5,6 @@ address = input("Enter the address: ")
 dateIn = input("Enter the date: ")
 
 
-
 def initialDisplay(companyName, address, dateIn):
     header = f"""           
                         {companyName}
